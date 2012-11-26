@@ -34,3 +34,6 @@
 [submodule ".vim/bundle/puppet"]
 	path = .vim/bundle/puppet
 	url = git://github.com/rodjek/vim-puppet.git
+[submodule "bundle/vim-gradle"]
+	path = bundle/vim-gradle
+	url = https://github.com/tfnico/vim-gradle.git
