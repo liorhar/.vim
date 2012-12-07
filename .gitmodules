@@ -40,3 +40,6 @@
 [submodule "bundle/nose.vim"]
 	path = bundle/nose.vim
 	url = git@github.com:lambdalisue/nose.vim.git
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = git@github.com:flazz/vim-colorschemes.git

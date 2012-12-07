@@ -47,3 +47,4 @@ endif
 set suffixes=*~,*.pyc,*.pyo
 
 hi Search  term=reverse ctermbg=Red ctermfg=White guibg=Red guifg=White
+:colorscheme wombat256
