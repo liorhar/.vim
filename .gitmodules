@@ -37,3 +37,6 @@
 [submodule "bundle/vim-gradle"]
 	path = bundle/vim-gradle
 	url = https://github.com/tfnico/vim-gradle.git
+[submodule "bundle/nose.vim"]
+	path = bundle/nose.vim
+	url = git@github.com:lambdalisue/nose.vim.git
