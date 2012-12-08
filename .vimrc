@@ -27,7 +27,7 @@ map <leader>r :RopeRename<CR>
 
 
 " Execute the tests
-nmap <silent><Leader>f <Esc>:Pytest file<CR>
+nmap <silent><Leader>f <Esc>:w<CR>:Pytest file<CR>
 nmap <silent><Leader>c <Esc>:Pytest class<CR>
 nmap <silent><Leader>m <Esc>:Pytest method<CR>
 " cycle through test errors
