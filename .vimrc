@@ -52,3 +52,4 @@ hi Search  term=reverse ctermbg=Red ctermfg=White guibg=Red guifg=White
 map <Leader>s <Esc>:setlocal spell spelllang=en_us<CR>
 map <Leader>ns <Esc>:setlocal nospell<CR>
 set hlsearch
+map <Leader>t :call RunCurrentSpecFile()<CR>
